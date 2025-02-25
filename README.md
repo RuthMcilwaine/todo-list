@@ -1,7 +1,7 @@
-<<<<<<< HEAD
+
 # todo-list
 todo list (class based)
-=======
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
